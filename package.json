@@ -1,11 +1,11 @@
 {
   "name": "glibc-legal-notice",
   "version": "1.0.0",
-  "description": "This software uses the GNU C Library, which is governed by the GNU LGPL, which can be found in the LICENSE file below",
+  "description": "This software uses the GNU C Library, which is governed by the GNU LGPL, which can be found in the COPYING.MD file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Paul Betts <paul@paulbetts.org>",
-  "license": "LGPL-2.0"
+  "license": "SEE LICENSE IN COPYING.MD"
 }
