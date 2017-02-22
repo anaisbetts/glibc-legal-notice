@@ -6,6 +6,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Paul Betts <paul@paulbetts.org>",
-  "license": "SEE LICENSE IN LICENSE.MD"
+  "author": "Paul Betts <paul@paulbetts.org>"
 }
