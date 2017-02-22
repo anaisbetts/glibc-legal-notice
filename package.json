@@ -1,6 +1,6 @@
 {
   "name": "glibc-legal-notice",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This software uses the GNU C Library, which is governed by the GNU LGPL, which can be found in the COPYING.MD file",
   "main": "index.js",
   "scripts": {
