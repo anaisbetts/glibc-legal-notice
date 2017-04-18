@@ -1,7 +1,7 @@
 {
   "name": "glibc-legal-notice",
   "version": "1.0.6",
-  "description": "This software uses the GNU C Library, which is governed by the GNU LGPL, which can be found in the COPYING.MD file",
+  "description": "This software uses the GNU C Library, which is governed by the GNU LGPL, which can be found in the LICENSE file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
